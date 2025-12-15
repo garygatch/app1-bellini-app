@@ -1,7 +1,37 @@
 {
   "type": "custom-component",
   "name": "aa",
-  "children": [],
+  "children": [
+    {
+      "name": "img",
+      "nodeName": "img",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "urhOPh"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "source": {
+        "url": "assets/apps/app1/components/aa/image1.png",
+        "evaluate": false
+      }
+    }
+  ],
   "variables": [],
   "bindings": [],
   "modules": [],
