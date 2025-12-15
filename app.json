@@ -1,0 +1,34 @@
+{
+  "name": "app1",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "directories": {
+    "assets": [
+      {
+        "id": "sUxHnX3J6RzbzH9nWbQxg",
+        "name": "w"
+      }
+    ],
+    "components": [],
+    "pages": [],
+    "scripts": [],
+    "services": [],
+    "stylesheets": []
+  }
+}
